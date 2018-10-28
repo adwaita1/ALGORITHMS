@@ -1,0 +1,18 @@
+student@B4L0106:~$ python solve.py 
+Queens problem solved!!!
+Board Configuration:
+1   0   0   0   0   0   0   0   
+
+0   0   0   0   1   0   0   0   
+
+0   0   0   0   0   0   0   1   
+
+0   0   0   0   0   1   0   0   
+
+0   0   1   0   0   0   0   0   
+
+0   0   0   0   0   0   1   0   
+
+0   1   0   0   0   0   0   0   
+
+0   0   0   1   0   0   0   0   
